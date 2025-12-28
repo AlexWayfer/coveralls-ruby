@@ -21,5 +21,5 @@ group :development do
 end
 
 group :test do
-  gem 'pry', '~> 0.12.2'
+  gem 'pry', '~> 0.16.0'
 end
